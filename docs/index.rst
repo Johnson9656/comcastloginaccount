@@ -3,15 +3,14 @@ How to Login Comcast Account?
 
 Comcast is one of the largest broadband and telecommunications companies in the United States, offering internet, cable television, and home phone services. Managing a Comcast account has become increasingly essential for customers, whether they need to view their bill, pay for services, adjust preferences, or troubleshoot issues. The process of accessing and managing a Comcast login account is straightforward but requires knowledge of the proper steps and best practices. This guide provides comprehensive instructions for users seeking to access and manage their Comcast login account, along with essential troubleshooting steps and useful tips.
 
-
+.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
+   :align: center
+   :target: https://aclogportal.com/
+   :alt: Login Now Button
 
 Having a Comcast login account ensures that you have full control over your services, helping you easily manage billing, support requests, and service settings.
 
-.. image:: login.gif
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://aclportal.com/
   
 How to Create a Comcast Login Account
 --------------------------------------
